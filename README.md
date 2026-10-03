@@ -113,3 +113,14 @@ If you already calibrated: `python grasp_assist.py --focal 553`
 2. **Talk to the robot arm.** Turn the webcam's (X, Y) into a position the robot arm understands.
 3. **Grab for real.** Send the position and grip to the arm when the user says yes. The spot for this is ready in the code: `on_grab()` in `grasp_assist.py`.
 4. **Test with people.** Try it with real users at a real table.
+
+Videos:
+
+
+
+https://github.com/user-attachments/assets/9dbfff46-677e-48c9-8f90-c7bc2a33ed4b
+
+
+
+
+
